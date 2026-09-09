@@ -45,7 +45,7 @@ agent_created: true
 
 在 **WorkBuddy、Cursor、Claude Code、Codex** 等任意智能体中，直接说：
 
-> "帮我安装这个 Skill：https://github.com/jasonmarkppp/agnes-media-generation"
+> "帮我安装这个 Skill：https://github.com/IvanXxxxyyuffff/agnes-media-generation"
 
 智能体会自动完成安装，并询问你的 API Key，帮你配置好。
 
@@ -61,7 +61,7 @@ agent_created: true
 
 **第一步：安装 Skill**
 ```
-帮我安装这个 Skill：https://github.com/jasonmarkppp/agnes-media-generation
+帮我安装这个 Skill：https://github.com/IvanXxxxyyuffff/agnes-media-generation
 ```
 
 **第二步：提供 API Key**
